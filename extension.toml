@@ -4,4 +4,4 @@ version = "0.0.1"
 schema_version = 1
 authors = ["rvdeguzman"]
 description = "Dark, transparent themes with blur for Zed. Five color palettes — Kimaris (purple+gold), Barbatos (red+rust), Gusion (green+plague), Vidar (blue+ice), Bael (monochrome) — each with a frosted glass variant. Colors sourced from black-metal-theme-neovim."
-repository = ""
+repository = "https://github.com/rvdeguzman/ars-goetia-zed"
