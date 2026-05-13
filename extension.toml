@@ -1,5 +1,5 @@
-id = "ars-goetia"
-name = "Ars Goetia"
+id = "ars-goetia-theme"
+name = "Ars Goetia Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["rvdeguzman"]
